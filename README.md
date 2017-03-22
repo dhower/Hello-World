@@ -1,2 +1,4 @@
 # Hello-World
-just another repository
+Hello!
+
+I'm Dan, the man with the plan.
